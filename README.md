@@ -1,1 +1,1 @@
-# mini-project
+# Grocery Management System
